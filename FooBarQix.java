@@ -35,7 +35,7 @@ public class FooBarQix {
 	 */
 	public static void main(String[] args) {
 		
-		// La fameuse boucle, seul endroit où je m'autorise l'usage d'un int.
+		// La fameuse boucle, seul endroit ou je m'autorise l'usage d'un int.
 		for (int i=1; i<=100; i++) {
 
 			// C'est plus drole avec des chaines !
